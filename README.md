@@ -1,9 +1,17 @@
 ### Hi there 👋
 
+
+This is Securip, a C program developer and linux kernel geeker.
+
+There is nothing special things to me, almost everything in my repository is forked from others.
+
+thanks for everyone, thanks MS.
+
 <!--
 **securip/securip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
